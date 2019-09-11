@@ -1,2 +1,3 @@
-This is file2
-changing this file in hotfix branch
+
+Modifying file2 in new hot fix branch
+:wq!
